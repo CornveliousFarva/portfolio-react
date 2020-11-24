@@ -9,17 +9,17 @@ const Landing = (props) => {
         <Container fluid>
           <Row>
             <Col>
-              <h1 className="display-3">Official Liverpool FC Supporters Club- Carlsbad, California</h1>
+              <h1 className="display-3">Greg Schuman</h1>
             </Col>
           </Row>
           <Row>
             <Col>
-              <h2> Community | Unity | Passion</h2>
+              <h2> Software Engineer | Full-Stack Web Developer</h2>
             </Col>
           </Row>
           <Row>
             <Col>
-              <h3>Representing Liverpool FC supporters in Northern San Diego</h3>
+              <h3>I code and I know things. Making projects happen for people.</h3>
             </Col>
           </Row>
         </Container>

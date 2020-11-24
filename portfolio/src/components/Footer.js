@@ -4,9 +4,9 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
     faGithub,
     faLinkedin,
-    faEnvelope,
-    faBlog
+    
 } from "@fortawesome/free-brands-svg-icons";
+import { faBlog, faEnvelope, } from '@fortawesome/free-solid-svg-icons'
 
 function Footer(){
     return(
