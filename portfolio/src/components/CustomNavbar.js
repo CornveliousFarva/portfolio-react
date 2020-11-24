@@ -1,12 +1,12 @@
-import React, { useState } from 'react'
+import React, { useState } from 'react';
 import {
-    Collapse,
-    Navbar,
-    NavbarToggler,
-    NavbarBrand,
-    Nav,
-    NavItem,
-    NavLink
+  Collapse,
+  Navbar,
+  NavbarToggler,
+  NavbarBrand,
+  Nav,
+  NavItem,
+  NavLink
 } from 'reactstrap';
 import { Link } from 'react-router-dom'
 
@@ -23,13 +23,13 @@ const CustomNavbar = (props) => {
           <Collapse isOpen={isOpen} navbar>
             <Nav className="mr-auto" navbar>
               <NavItem>
-                <NavLink tag={Link} to="/About">About</NavLink>
+                <NavLink tag={Link} to="/about">About</NavLink>
               </NavItem>
               <NavItem>
-              <NavLink tag={Link} to="/Projects">Projects</NavLink>
+              <NavLink tag={Link} to="/projects">Projects</NavLink>
               </NavItem>
               <NavItem>
-                  <NavLink tag={Link} to="Resume">Resume</NavLink>
+              <NavLink tag={Link} to="/resume">Resume</NavLink>
               </NavItem>
             </Nav>
           </Collapse>
