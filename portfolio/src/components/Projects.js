@@ -4,7 +4,7 @@ import {
   CardTitle, CardSubtitle, Button
 } from 'reactstrap';
 
-const Projects = (props) => {
+const Example = (props) => {
   return (
     <div>
       <Card>
@@ -20,4 +20,4 @@ const Projects = (props) => {
   );
 };
 
-export default Projects;
+export default Example;
