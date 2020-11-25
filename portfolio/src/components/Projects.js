@@ -59,8 +59,12 @@ const Example = (props) => {
                 </CardBody>
               </Card>
             </Col>
-            <Col></Col>
-            <Col></Col>
+            <Col>
+            
+            </Col>
+            <Col>
+            
+            </Col>
           </Row>
           <Row>
             <Col></Col>
