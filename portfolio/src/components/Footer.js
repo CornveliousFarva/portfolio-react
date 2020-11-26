@@ -11,9 +11,9 @@ function Footer(){
     return(
         <Container fluid>
             <Row>
-                <Col><FontAwesomeIcon icon={faGithub} size="3x"><link a href="https://github.com/CornveliousFarva" /></FontAwesomeIcon></Col>
-                <Col><FontAwesomeIcon icon={faLinkedin} size="3x"><link a href="https://www.linkedin.com/in/greg-schuman/" /></FontAwesomeIcon></Col>
-                <Col><FontAwesomeIcon icon={faEnvelope} size="3x"></FontAwesomeIcon>greg.c.schuman@gmail.com </Col>
+                <Col><a href="https://github.com/CornveliousFarva"><FontAwesomeIcon icon={faGithub} size="3x"></FontAwesomeIcon></a></Col>
+                <Col><a href="https://www.linkedin.com/in/greg-schuman/"><FontAwesomeIcon icon={faLinkedin} size="3x"></FontAwesomeIcon></a></Col>
+                <Col><a href="mailto:greg.c.schuman@gmail.com" class="email"><FontAwesomeIcon icon={faEnvelope} size="3x"></FontAwesomeIcon></a></Col>
                 <Col><FontAwesomeIcon icon={faBlog} size="3x"></FontAwesomeIcon></Col>
             </Row>
             <Row>
