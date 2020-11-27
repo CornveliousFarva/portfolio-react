@@ -41,7 +41,14 @@ const Projects = (props) => {
                 </CardBody>
       </Card>
       <Card>
-        
+        <CardImg top width="100%" src="/assets/318x180.svg" alt="Card image cap" />
+          <CardBody>
+            <CardTitle tag="h5">Quote Generator </CardTitle>
+              <CardSubtitle tag="h6" className="mb-2 text-muted">React</CardSubtitle>
+                <CardText>Quote generator with buttons to share to social media</CardText>
+                  <a href="https://cornveliousfarva.github.io/quote-generator/"><Button color="primary">Project</Button></a>
+                  <a href="https://github.com/CornveliousFarva/quote-generator"><Button color="secondary">GitHub</Button></a>
+                </CardBody>
       </Card>
     </CardGroup>
   );
