@@ -12,7 +12,7 @@ const Projects = (props) => {
       <Row>
         <Col>
           <Card>
-            <CardImg top width="100%" src="/assets/318x180.svg" alt="Index Cards" />
+            <CardImg top width="100%" src="/images/Quiz-Cards.png" alt="Index Cards" />
             <CardBody>
               <CardTitle tag="h5">Index Cards</CardTitle>
                 <CardSubtitle tag="h6" className="mb-2 text-muted">HTML, CSS, and JavaScript.</CardSubtitle>
@@ -36,7 +36,7 @@ const Projects = (props) => {
         </Col>
         <Col>
           <Card>
-            <CardImg top width="100%" src="/assets/318x180.svg" alt="Carlsbad Kopites" />
+            <CardImg top width="100%" src="/" alt="Carlsbad Kopites" />
               <CardBody>
                   <CardTitle tag="h5">Official Livepool FC Supporters Club-Carlsbad, California</CardTitle>
                     <CardSubtitle tag="h6" className="mb-2 text-muted">React JS and Reactsrap.</CardSubtitle>
@@ -50,7 +50,7 @@ const Projects = (props) => {
       <Row>
         <Col>
           <Card>
-            <CardImg top width="100%" src="/assets/318x180.svg" alt="Quote Generator" />
+            <CardImg top width="100%" src="/images/Quote-Generator.png" alt="Quote Generator" />
               <CardBody>
                 <CardTitle tag="h5">Quote Generator </CardTitle>
                   <CardSubtitle tag="h6" className="mb-2 text-muted">React</CardSubtitle>
