@@ -36,7 +36,7 @@ const Projects = (props) => {
         </Col>
         <Col>
           <Card>
-            <CardImg top width="100%" src="/" alt="Carlsbad Kopites" />
+            <CardImg top width="100%" src="/images/club-crest-red-portfolio.png" alt="Carlsbad Kopites" />
               <CardBody>
                   <CardTitle tag="h5">Official Livepool FC Supporters Club-Carlsbad, California</CardTitle>
                     <CardSubtitle tag="h6" className="mb-2 text-muted">React JS and Reactsrap.</CardSubtitle>
