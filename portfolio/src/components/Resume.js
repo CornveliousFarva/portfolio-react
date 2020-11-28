@@ -27,7 +27,24 @@ const Resume = (props) => {
             <li>Associate of Arts, History</li>
           </p>
         </Col>
-        <Col><h1>Professional Experience</h1>
+        <Col>
+          <h1>Professional Experience</h1>
+          <p> 2012-Present
+            <li>Demonstrate leadership and productivity by establishing written protocols on inventory management and shipping ad receiving duties, complete with guides on troubleshooting common and uncommon errors and item locations</li>
+            <li>Utilized problem-solving skills to solve technical problems with various software, showing dedication to the position.</li>
+            <li>Trained and demonstrated to upper management and coworkers proficiency in shipping and inventory software.</li>
+            <li>Researched new vendors on cleaning supplies due to shortage from our current ones.</li>
+            <li>Gave technical support on computers when needed, showing dedication for technology.</li>
+            <li>Collaborated with different departments to coordinate efforts to minimize disruption of workflow and processing of shipments.</li>
+          </p>
+          <p> Cutstomer Service Representative, AM PM, Carlsbad, CA, 2008-2012
+            <li>Increased customer satisfaction by 50%, going above and beyond the scope of my responsibilities to provide a positive customer experience.</li>
+            <li>During a major power outage, showed leadership by taking charge of the store, securing all valuable assets and mitigating any potential for an escalation of tensions.
+            </li>
+            <li>
+            Conducted training of new employees on store policies and procedures.
+            </li>
+          </p>
         
         </Col>
       </Row>
