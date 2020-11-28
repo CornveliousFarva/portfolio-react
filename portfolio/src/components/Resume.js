@@ -30,7 +30,7 @@ const Resume = (props) => {
         <Col>
           <h1>Professional Experience</h1>
           <p> 2012-Present
-            <li>Demonstrate leadership and productivity by establishing written protocols on inventory management and shipping ad receiving duties, complete with guides on troubleshooting common and uncommon errors and item locations</li>
+            <li>Demonstrated leadership and productivity by establishing written protocols on inventory management and shipping ad receiving duties, complete with guides on troubleshooting common and uncommon errors and item locations</li>
             <li>Utilized problem-solving skills to solve technical problems with various software, showing dedication to the position.</li>
             <li>Trained and demonstrated to upper management and coworkers proficiency in shipping and inventory software.</li>
             <li>Researched new vendors on cleaning supplies due to shortage from our current ones.</li>
