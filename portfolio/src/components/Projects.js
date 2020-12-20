@@ -61,7 +61,16 @@ const Projects = (props) => {
       </Card>
         </Col>
         <Col>
-        
+          <Card>
+            <CardImg top width="100%" src="/images/cloneify.png" alt="Cloneify" />
+              <CardBody>
+                <CardTitle tag="h5">Cloneify</CardTitle>
+                <CardSubtitle tag="h6" className="mb-2 text-muted">React</CardSubtitle>
+                  <CardText>Spotify Search App</CardText>
+                    <a href="https://cloneify.netlify.app"><Button color="primary">Project</Button></a>
+                    <a href="https://github.com/CornveliousFarva/cloneify"><Button color="secondary">Github</Button></a>
+              </CardBody>
+          </Card>
         </Col>
         <Col>
         
