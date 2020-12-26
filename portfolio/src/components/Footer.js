@@ -16,7 +16,7 @@ function Footer(){
                 <Col><a href="mailto:greg.c.schuman@gmail.com" class="email"><FontAwesomeIcon icon={faEnvelope} size="3x"></FontAwesomeIcon></a></Col>
                 <Col><FontAwesomeIcon icon={faBlog} size="3x"></FontAwesomeIcon></Col>
             </Row>
-            <Row>
+            <Row className="copyright">
                 <Col>Copyright, Greg Schuman, 2020</Col>
             </Row>
         </Container>

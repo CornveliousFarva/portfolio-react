@@ -24,7 +24,7 @@ const Projects = (props) => {
         </Col>
         <Col>
           <Card>
-            <CardImg top width="50%" src="/images/password-generator.png" alt="Password Generator" />
+            <CardImg top width="25%" src="/images/password-generator.png" alt="Password Generator" />
               <CardBody>
                 <CardTitle tag="h5">Password Generator</CardTitle>
                   <CardSubtitle tag="h6" className="mb-2 text-muted">HTML, CSS, and JavaScript.</CardSubtitle>

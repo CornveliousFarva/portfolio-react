@@ -14,12 +14,12 @@ const Landing = (props) => {
           </Row>
           <Row>
             <Col>
-              <h2> Software Engineer | Full-Stack Web Developer</h2>
+              <h3> Software Engineer | Full-Stack Web Developer</h3>
             </Col>
           </Row>
           <Row>
             <Col>
-              <h3>I code and I know things. Making projects happen for people.</h3>
+              <p>Code. Build. Repeat. Always learning and building</p>
             </Col>
           </Row>
         </Container>
