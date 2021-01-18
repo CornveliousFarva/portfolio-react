@@ -73,7 +73,14 @@ const Projects = (props) => {
           </Card>
         </Col>
         <Col>
-        
+          <Card>
+            <CardImg top width="50%" src="portfolio/public/images/to-do-list.png" alt="to-do-list" />
+              <CardTitle tag="h5">To Do List</CardTitle>
+                <CardSubtitle tag="h6" className="md-2 text-muted">React</CardSubtitle>
+                  <CardText>To Do List</CardText>
+                    <a href="https://cornveliousfarva.github.io/to-do-list-react/"><Button color="primary">Project</Button></a>
+                    <a href="https://github.com/CornveliousFarva/to-do-list-react"><Button color="secondary">Github</Button></a>
+          </Card>
         </Col>
       </Row>
       <Row>
